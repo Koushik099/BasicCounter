@@ -4,7 +4,7 @@ I gave lots of effort to complete this Project. Using CSS3, HTML5 and JavaSCript
 
 # View this Project On Netlify, Here is the Link.
 
-**[Counter](https://counter.netlify.app/)**
+**[Counter](https://kcounter.netlify.app/)**
 
 # Here is the Screenshot, take a look.
 
